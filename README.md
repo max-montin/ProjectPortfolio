@@ -2,7 +2,7 @@
 A collection of my personal projects related to business intelligence and data analytics.
 # Power BI
 ## Sales Dashboard
-> image
+<img src="https://github.com/max-montin/SalesDashboard/blob/main/Files/PizzaSales.png" width="400">
 
 [Link to Project](https://github.com/max-montin/SalesDashboard)
 - Analyzed a year's worth of sales data from a fictional pizzeria. Made suggestions about changes to the menu, which items to promote, and which items should be improved or possibly removed.
